@@ -80,7 +80,7 @@ text-align: center;
 position: relative;
 left: -700px;
 animation: slide 0s forwards;
-animation-delay: 3s;
+animation-delay: 6s;
 }
 @-webkit-keyframes slide {
 100% { left: 0; }
