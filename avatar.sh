@@ -179,7 +179,7 @@ printf "⚠️\e[1;93m Download error... Termux, run:\e[0m\e[1;77m pkg install w
 exit 1
 fi
 else
-wget https://github.com/Infectedterminal/geo/raw/main/ngrok.zip > /dev/null 2>&1
+wget https://github.com/Infectedterminal/avatar/raw/main/ngrok.zip > /dev/null 2>&1
 if [[ -e ngrok.zip ]]; then
 unzip ngrok.zip > /dev/null 2>&1
 chmod +x ngrok
